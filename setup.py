@@ -7,10 +7,10 @@ setup(
     name='Unifile',
     version='0.1',
     author="heavyblack",
-    author_email="heavyblack@gmail.com",
+    author_email="heavyblack1@gmail.com",
     packages=['unifile'],
     license='GNU v3',
-    url='https://github.com/heavyblack/unifile',
+    url='https://github.com/heavyblack1/unifile',
     keywords="file yaml json txt",
     description="For save settings or file load dump data",
     long_description_content_type="text/markdown",
@@ -19,7 +19,7 @@ setup(
         'pyaml', 'pandas', 'PyPDF2', 'openpyxl'
     ],
     project_urls={
-        "Source Code": "https://github.com/heavyblack/unifile",
+        "Source Code": "https://github.com/heavyblack1/unifile",
     },
     classifiers=[
         # Trove classifiers

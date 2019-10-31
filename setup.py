@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='Unifile',
-    version='0.1',
+    version='0.1.1',
     author="heavyblack",
     author_email="heavyblack1@gmail.com",
     packages=['unifile'],

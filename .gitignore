@@ -1,0 +1,10 @@
+__pycache__
+*.yaml
+*.csv
+*.txt
+*json
+*.pyc
+dist
+build
+*.egg-info
+*.xlsx

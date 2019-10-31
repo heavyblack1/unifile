@@ -1,0 +1,1 @@
+python setup.py sdist bdist_wheel bdist_wininst
